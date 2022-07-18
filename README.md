@@ -9,5 +9,5 @@
 - [Source Code](https://github.com/hridayK/routing-in-react)
   
 ### Theme Change in React
-- [Deployed](https://github.com/hridayK/theme-change-feature)
-- [Source Code](https://hridayk.github.io/theme-change-feature/)
+- [Deployed](https://hridayk.github.io/theme-change-feature/)
+- [Source Code](https://github.com/hridayK/theme-change-feature)
